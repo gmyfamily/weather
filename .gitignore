@@ -11,3 +11,4 @@ wheels/
 debug.py
 debug*.py
 .env
+.coverage
